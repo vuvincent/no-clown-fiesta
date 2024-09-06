@@ -1,6 +1,6 @@
 {
   "name": "no-clown-fiesta",
-  "displayName": "no-clown-fiesta",
+  "displayName": "No Clown Fiesta Theme",
   "description": "VSCode theme based on the original no-clown-fiesta theme in Neovim",
   "version": "0.0.1",
   "engines": {
@@ -9,10 +9,14 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snokpok/no-clown-fiesta.git"
+  },
   "contributes": {
     "themes": [
       {
-        "label": "No Clown Fiesta",
+        "label": "No Clown Fiesta Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/No Clown Fiesta-color-theme.json"
       }
