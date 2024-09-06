@@ -2,10 +2,10 @@
   "name": "no-clown-fiesta",
   "displayName": "No Clown Fiesta Theme",
   "description": "VSCode theme based on the original no-clown-fiesta theme in Neovim",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "snokpok",
   "engines": {
-    "vscode": "^1.92.0"
+    "vscode": "^1.13.0"
   },
   "categories": [
     "Themes"
