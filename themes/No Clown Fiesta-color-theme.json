@@ -7,13 +7,21 @@
 		"sideBarSectionHeader.background": "#0A0A0A",
 		"activityBar.background": "#0A0A0A",
 		"sideBar.background": "#0A0A0A",
+		"sideBar.border": "#303030",
 		"statusBar.background": "#0A0A0A",
+		"statusBar.border": "#303030",
 		"titleBar.activeBackground": "#0A0A0A",
 		"titleBar.inactiveBackground": "#0A0A0A",
+		"titleBar.border": "#303030",
 		"tab.inactiveBackground": "#0A0A0A",
 		"editorGroupHeader.tabsBackground": "#0A0A0A",
+		"editorGroupHeader.tabsBorder": "#303030", // Add this line for a light gray border below the file tabs
 		"tab.activeForeground": "#e1e1e1",
 		"tab.activeBorderTop": "#b6d9ff",
+		"quickInput.background": "#1C1C1C",
+		"quickInput.foreground": "#E1E1E1",
+		"quickInputList.focusBackground": "#303030",
+		"quickInputList.focusForeground": "#FFFFFF",
 	},
 	"tokenColors": [
 		{
