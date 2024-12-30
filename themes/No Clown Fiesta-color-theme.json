@@ -1,27 +1,27 @@
 {
 	"name": "No Clown Fiesta",
 	"colors": {
-		"editor.background": "#0A0A0A",
+		"editor.background": "#151515",
 		"editor.foreground": "#E1E1E1",
 		"activityBarBadge.background": "#202020",
-		"sideBarSectionHeader.background": "#0A0A0A",
-		"activityBar.background": "#0A0A0A",
-		"sideBar.background": "#0A0A0A",
+		"sideBarSectionHeader.background": "#151515",
+		"activityBar.background": "#151515",
+		"sideBar.background": "#151515",
 		"sideBar.border": "#303030",
-		"statusBar.background": "#0A0A0A",
+		"statusBar.background": "#151515",
 		"statusBar.border": "#303030",
-		"titleBar.activeBackground": "#0A0A0A",
-		"titleBar.inactiveBackground": "#0A0A0A",
+		"titleBar.activeBackground": "#151515",
+		"titleBar.inactiveBackground": "#171717",
 		"titleBar.border": "#303030",
-		"tab.inactiveBackground": "#0A0A0A",
-		"editorGroupHeader.tabsBackground": "#0A0A0A",
+		"tab.inactiveBackground": "#151515",
+		"editorGroupHeader.tabsBackground": "#151515",
 		"editorGroupHeader.tabsBorder": "#303030", // Add this line for a light gray border below the file tabs
 		"tab.activeForeground": "#e1e1e1",
 		"tab.activeBorderTop": "#b6d9ff",
 		"quickInput.background": "#1C1C1C",
 		"quickInput.foreground": "#E1E1E1",
 		"quickInputList.focusBackground": "#303030",
-		"quickInputList.focusForeground": "#FFFFFF",
+		"quickInputList.focusForeground": "#FFFFFF"
 	},
 	"tokenColors": [
 		{
